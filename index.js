@@ -103,4 +103,4 @@ console.log(
   'color: #70f9a9',
   'color: #e2f970'
 );
-console.table(grid);
+// console.table(grid);
