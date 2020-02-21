@@ -96,3 +96,11 @@ function render(grid) {
     }
   }
 }
+
+console.clear();
+console.log(
+  '%cGAME OF LIFE' + ' %c(Conway)',
+  'color: #70f9a9',
+  'color: #e2f970'
+);
+console.table(grid);
